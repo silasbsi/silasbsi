@@ -6,9 +6,9 @@
 ### Hi there 👋 I am Silas Silva
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/silas-silva-21a9b326/"><img src="https://img.shields.io/badge/-silasbsi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:silasbsi@gmail.com"><img src="https://img.shields.io/badge/-silasbsi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/silasjsilvajr"><img src="https://img.shields.io/badge/-@silasjsilvajr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/silas-silva-21a9b326/" target="_blank"><img src="https://img.shields.io/badge/-silasbsi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:silasbsi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-silasbsi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/silasjsilvajr" target="_blank"><img src="https://img.shields.io/badge/-@silasjsilvajr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### About Me
